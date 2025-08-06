@@ -97,6 +97,8 @@ export const NSCALE: string = 'nscale';
 export const HYPERBOLIC: string = 'hyperbolic';
 export const FEATHERLESS_AI: string = 'featherless-ai';
 export const KRUTRIM: string = 'krutrim';
+export const THREE_ZERO_TWO_AI: string = '302ai';
+
 export const QDRANT: string = 'qdrant';
 
 export const VALID_PROVIDERS = [
@@ -160,6 +162,7 @@ export const VALID_PROVIDERS = [
   HYPERBOLIC,
   FEATHERLESS_AI,
   KRUTRIM,
+  THREE_ZERO_TWO_AI,
   QDRANT,
 ];
 
